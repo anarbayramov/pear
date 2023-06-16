@@ -1,0 +1,15 @@
+Target dependency graph (6 targets)
+FlutterMacOS in Pods, no dependencies
+WebRTC-SDK in Pods, no dependencies
+flutter_webrtc in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+WebRTC-SDK in Pods (explicit)
+path_provider_foundation in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+Pods-Runner in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+WebRTC-SDK in Pods (explicit)
+flutter_webrtc in Pods (explicit)
+path_provider_foundation in Pods (explicit)
+Pods-RunnerTests in Pods, depends on:
+Pods-Runner in Pods (explicit)
